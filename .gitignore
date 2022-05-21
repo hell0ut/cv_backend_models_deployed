@@ -5,6 +5,7 @@
 __pycache__
 db.sqlite3
 media
+*.pt
 
 # Backup files #
 *.bak
@@ -41,6 +42,7 @@ media
 
 # IntelliJ
 out/
+models/
 
 # JIRA plugin
 atlassian-ide-plugin.xml
